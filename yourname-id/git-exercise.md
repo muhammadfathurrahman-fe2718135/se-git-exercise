@@ -6,7 +6,7 @@
 
 | Name | Email | Kelas |
 | ---  | ---   | ---   |
-| _change with your name_ | _change with your email_ | _change your class_ |
+| _muhammad fathur rahman_ | _fathurrahman94300@gmail.com_ | _fe07_ |
 
 ## Introduction
 
